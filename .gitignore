@@ -1,0 +1,8 @@
+target/
+.idea/
+*.iml
+out/
+logs/
+*.log
+src/main/resources/database.properties
+src/main/webapp/runtime/

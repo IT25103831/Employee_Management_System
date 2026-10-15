@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee" version="6.0">
+  <request-character-encoding>UTF-8</request-character-encoding>
+  <response-character-encoding>UTF-8</response-character-encoding>
+  <jsp-config><jsp-property-group><url-pattern>*.jsp</url-pattern><page-encoding>UTF-8</page-encoding><default-content-type>text/html;charset=UTF-8</default-content-type></jsp-property-group></jsp-config>
+  <display-name>Employee Management System</display-name>
+  <welcome-file-list><welcome-file>index.jsp</welcome-file></welcome-file-list>
+  <session-config><session-timeout>30</session-timeout><cookie-config><http-only>true</http-only></cookie-config></session-config>
+  <error-page><error-code>403</error-code><location>/WEB-INF/views/errors/403.jsp</location></error-page>
+  <error-page><error-code>404</error-code><location>/WEB-INF/views/errors/404.jsp</location></error-page>
+  <error-page><error-code>500</error-code><location>/WEB-INF/views/errors/500.jsp</location></error-page>
+</web-app>

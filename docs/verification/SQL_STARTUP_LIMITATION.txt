@@ -1,0 +1,33 @@
+SQL Server 2022 native startup failed before accepting connections. Two versions were attempted.
+
+This program has encountered a fatal error and cannot continue running at Wed Sep 30 04:10:36 2026
+The following diagnostic information is available:
+
+         Reason: 0x00000002
+     Parameters: 0x40032b690
+                  [0] 0xffffffffc0000142
+    Stack Trace:
+                 file://package6/windows/system32/sqlpal.dll+0x0000000000209C12
+                 file://package6/windows/system32/sqlpal.dll+0x0000000000208D23
+                 file://package6/windows/system32/sqlpal.dll+0x000000000023D321
+                 file://package6/windows/system32/sqlpal.dll+0x0000000000201F6E
+                 file://package6/windows/system32/sqlpal.dll+0x00000000003A03FB
+                 file:///windows/system32/ntdll.dll+0x00000000000F8D3F
+                 file:///windows/system32/ntdll.dll+0x0000000000014EB1
+                 file:///windows/system32/ntdll.dll+0x0000000000014DF8
+                 file:///windows/system32/ntdll.dll+0x00000000000148FA
+                 file:///windows/system32/ntdll.dll+0x000000000001FC5E
+                 file://package6/windows/system32/sqlpal.dll+0x0000000000244CA7
+                 file://package6/windows/system32/sqlpal.dll+0x00000000003A0541
+                 file://package6/windows/system32/sqlpal.dll+0x000000000020F2DA
+        Process: 20 - sqlservr
+         Thread: 65 (application thread 0xb0)
+    Instance Id: dec8ecfe-5cc1-4f06-ab9a-e44e507de315
+       Crash Id: a3957eea-dddb-4132-864f-e6507f3b0f21
+    Build stamp: 1aacabbb6e7bcc197af022a4ce0ab4cb87a73db4d8b85ecac47e60a4235d8a40
+   Distribution: Ubuntu 24.04.3 LTS
+     Processors: 9
+   Total Memory: 10451464192 bytes
+      Timestamp: Wed Sep 30 04:10:36 2026
+     Last errno: 2
+Last errno text: No such file or directory

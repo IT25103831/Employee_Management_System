@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lk.sliit.ems.integration.SqlServerWorkflowTest
+-------------------------------------------------------------------------------
+Tests run: 22, Failures: 0, Errors: 0, Skipped: 22, Time elapsed: 0.001 s -- in lk.sliit.ems.integration.SqlServerWorkflowTest

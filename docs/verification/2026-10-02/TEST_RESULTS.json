@@ -1,0 +1,65 @@
+[
+  {
+    "name": "lk.sliit.ems.controller.AuthorizationTest",
+    "tests": "20",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  {
+    "name": "lk.sliit.ems.controller.HttpAccessRegressionTest",
+    "tests": "23",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  {
+    "name": "lk.sliit.ems.integration.ApplicationBootTest",
+    "tests": "4",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  {
+    "name": "lk.sliit.ems.integration.JspRenderingTest",
+    "tests": "20",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  {
+    "name": "lk.sliit.ems.integration.SqlServerWorkflowTest",
+    "tests": "22",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "22"
+  },
+  {
+    "name": "lk.sliit.ems.service.PayrollServiceTest",
+    "tests": "2",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  {
+    "name": "lk.sliit.ems.service.ValidationTest",
+    "tests": "29",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  {
+    "name": "lk.sliit.ems.util.ProfileImageTest",
+    "tests": "5",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  },
+  {
+    "name": "lk.sliit.ems.util.SecurityUtilitiesTest",
+    "tests": "7",
+    "failures": "0",
+    "errors": "0",
+    "skipped": "0"
+  }
+]

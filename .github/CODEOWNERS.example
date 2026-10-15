@@ -1,0 +1,16 @@
+# Replace the sample handles with the six real GitHub usernames, then rename this file to CODEOWNERS.
+* @group51-integration-coordinator
+
+/src/main/webapp/assets/css/modules/employee-profile.css @member01-github
+/src/main/webapp/assets/css/modules/attendance-shift.css @member02-github
+/src/main/webapp/assets/css/modules/user-access.css @member03-github
+/src/main/webapp/assets/css/modules/leave-absence.css @member04-github
+/src/main/webapp/assets/css/modules/performance-evaluation.css @member05-github
+/src/main/webapp/assets/css/modules/payroll-salary.css @member06-github
+
+/pom.xml @group51-integration-coordinator
+/database/EmployeeManagementDB.sql @group51-integration-coordinator
+/src/main/java/lk/sliit/ems/controller/AppServlet.java @group51-integration-coordinator
+/src/main/java/lk/sliit/ems/dao/EMSRepository.java @group51-integration-coordinator
+/src/main/webapp/WEB-INF/views/module.jsp @group51-integration-coordinator
+/src/main/webapp/assets/css/app.css @group51-integration-coordinator

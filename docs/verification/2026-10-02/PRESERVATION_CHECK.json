@@ -1,0 +1,13 @@
+{
+  "original_file_count": 72,
+  "removed_files": [],
+  "unchanged_critical_files": {
+    "database/EmployeeManagementDB.sql": true,
+    "database/001_scope_upgrade.sql": true,
+    "src/main/resources/database.properties": true,
+    "src/main/resources/database.properties.example": true,
+    "src/main/java/lk/sliit/ems/service/PayrollService.java": true
+  },
+  "war_sha256": "897798e6a7519c22907c267b164bce6ef46a9d49386044d88f9fa0f8e4f163bd",
+  "war_bytes": 5823557
+}
